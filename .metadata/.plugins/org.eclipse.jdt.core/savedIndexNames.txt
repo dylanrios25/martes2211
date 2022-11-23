@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\ms2022\.metadata\.plugins\org.eclipse.jdt.core
+2570536077.index
+4039248536.index
+1865797976.index
